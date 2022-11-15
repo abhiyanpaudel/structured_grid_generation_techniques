@@ -1,0 +1,1 @@
+These codes are for educational purposes. Examples and derivations are from chapter 9 (Page 358) of "Computational Fluid Dynamics Vol-I" by Hoffmann and Chiang. Check grid_generation.pdf for formulations and implementation of codes.     
